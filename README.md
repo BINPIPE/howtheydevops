@@ -1,6 +1,7 @@
 <p align="center"><img src="images/how_they_devops.png"/></p> 
 
 > A curated collection of publicly available resources on how companies around the world practice DevOps
+ |[![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
 
 ## Introduction
 
